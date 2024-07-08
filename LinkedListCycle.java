@@ -32,7 +32,6 @@
  * Follow up: Can you solve it using O(1) (i.e. constant) memory?
  */
 
- import java.util.HashSet;
 
  class ListNode {
      int val;
